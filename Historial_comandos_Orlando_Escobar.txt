@@ -1,0 +1,44 @@
+cd repogit/
+ls
+cd TP_AySO/
+ls
+git status
+man grep
+grep -v "nologin" /etc/passwd | head -n10 | -t: -k7 > lista_ordenada
+grep -v "nologin" /etc/passwd | head -n10 | sort -t: -k7 > lista_ordenada
+git status
+git add .
+git status
+git commit -m "añadi el archivo lista_ordenada que contiene los primeros 10 usuarios que no tengan el interprete nologin"
+git status
+"tcpdump" > comando_dump_net
+git config --global user.mail "orlandoescobar383@gmail.com"
+git config --global user.name "Orlando"
+git status
+git add .
+git tatus
+git status
+echo "tcpdump" > comando_dump_net
+echo "sudo tcpdump -i eth0" >> comando_dump_net 
+git status
+git add .
+git status
+git commit -m "ADD: Comando para Capturar y analizar el tráfico de red al archivo comando_dump_net"
+cat <<EOF > README.md
+Alumno: <Tu-Nombre>
+División: <Tu-División>
+Turno: <Turno>
+EOF
+
+git status
+git add .
+git status
+git commit -m "docs: Añadiendo información del estudiante"
+git status
+history -a
+git status
+hitory -a append $HOME/.bash_history
+cp $HOME/.bash_history Historial_comandos_<Tu-Nombre>.txt
+cp $HOME/.bash_history Historial_comandos_<Orlando>.txt
+git status
+history -a
