@@ -1,2 +1,3 @@
-# TP_AySO
-Repositorio TP_1 AySO Orlando Jorge Escobar Testa
+Alumno: <Tu-Nombre>
+División: <Tu-División>
+Turno: <Turno>
