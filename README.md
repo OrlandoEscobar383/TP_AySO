@@ -1,3 +1,3 @@
-Alumno: <Tu-Nombre>
-División: <Tu-División>
-Turno: <Turno>
+Alumno: Orlando Jorge Escobar Testa
+División: 113-2
+Turno: Turno Mañana
